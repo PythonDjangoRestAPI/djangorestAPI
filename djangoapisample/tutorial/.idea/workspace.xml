@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45e74e07-6389-411d-8a2b-7c48f078a6c0" name="Default" comment=" Tutorial 2 : Complete">
+    <list default="true" id="45e74e07-6389-411d-8a2b-7c48f078a6c0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snippets/urls.py" afterPath="$PROJECT_DIR$/snippets/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snippets/views.py" afterPath="$PROJECT_DIR$/snippets/views.py" />
     </list>
     <ignored path="tutorial.iws" />
@@ -62,10 +61,10 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snippets/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6062176">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.23316061">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding>
-                <element signature="e#0#49#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -351,7 +350,13 @@
       <option name="project" value="LOCAL" />
       <updated>1463676553098</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="POST | GET | PUT |DELETE using class based view.">
+      <created>1463677591351</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1463677591351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -387,7 +392,8 @@
     </ignored-roots>
     <MESSAGE value="Requests and Responses | Change POST,GET,PUT,DELETE API logic | response based on request format." />
     <MESSAGE value=" Tutorial 2 : Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Tutorial 2 : Complete" />
+    <MESSAGE value="POST | GET | PUT |DELETE using class based view." />
+    <option name="LAST_COMMIT_MESSAGE" value="POST | GET | PUT |DELETE using class based view." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -444,10 +450,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snippets/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6062176">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.23316061">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding>
-            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
